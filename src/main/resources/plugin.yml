@@ -1,0 +1,6 @@
+name: DaredemoOpPlugin
+version: ${project.version}
+main: net.kunmc.lab.daredemoop.DaredemoOp
+api-version: 1.16
+authors: [Peyang]
+website: https://kunmc.net
